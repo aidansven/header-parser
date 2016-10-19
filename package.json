@@ -1,0 +1,12 @@
+{
+  "name": "HeaderParser",
+  "version": "1.0.0",
+  "description": "Header-Parser",
+  "main": "server.js",
+  "repository": "",
+  "license": "",
+  "author": "Ethan Rose",
+  "dependencies": {
+    "useragent": "^2.1.9"
+  }
+}
